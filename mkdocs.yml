@@ -1,0 +1,9 @@
+site_name: Divine Hymns
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Vinayagar:
+      - Vinayagar Agaval: vinayagar/vinayagar_agaval.md
