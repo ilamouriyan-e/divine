@@ -7,3 +7,5 @@ nav:
   - Home: index.md
   - Vinayagar:
       - Vinayagar Agaval: vinayagar/vinayagar_agaval.md
+  - Daily:
+      - Daily Parayana: daily/parayana.md
